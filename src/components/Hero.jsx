@@ -21,7 +21,7 @@ export default function Hero() {
 
         <div className="buttons">
           <a href="mailto:azadehahmadi223@gmail.com" className="btn-hire">Hire me</a>
-          <a href="/resume_template_main (1).pdf" className="btn-cv" download><i className="fas fa-download"></i> Download CV</a>
+          <a href="/resume.pdf" className="btn-cv" download><i className="fas fa-download"></i> Download CV</a>
         </div>
       </div>
 
